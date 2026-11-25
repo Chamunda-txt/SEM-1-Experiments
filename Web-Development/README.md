@@ -7,8 +7,8 @@ Practical experiments and webpage development using HTML, CSS, and JavaScript.
 
 | Experiment | Title | Status |
 |---|---|---|
-| Experiment 01 | To be updated | Pending |
-| Experiment 02 | To be updated | Pending |
+| Experiment 01 | Simple Webserver | Done |
+| Experiment 02 | Fooddelivery Menu | Done |
 | Experiment 03 | To be updated | Pending |
 
 ## Technologies
